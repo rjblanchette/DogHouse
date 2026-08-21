@@ -17,7 +17,7 @@ Canonical template: SDCA/03_Gates/AWAP/AWAP_Template_v1_0.md
 
 **Work Title:** Why I Keep a Record When I Work With AI
 **Series:** SubStack — "The Record"
-**Published URL:** [[pending — not yet posted to Substack](https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with)]
+**Published URL:** [[posted to Substack](https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with)]
 **Date of Closure (internal):** 21.08.2026
 **Date Published:** 21.08.2026
 
