@@ -1,7 +1,6 @@
 # Public AWAP Register
 
-**Register status:** INITIALIZED — no public AWAPs have yet been entered
-at initialization.
+**Register status:** ACTIVE — first entry filed 21.08.2026.
 
 ---
 
@@ -43,16 +42,16 @@ presence here                  ⇏  the canonical AWAP itself
 
 | article_slug | work_title | published_url | closure_date | public_awap_ref | status |
 |---|---|---|---|---|---|
-| — | — | — | — | — | **NO RECORDS AT INITIALIZATION** |
+| why-i-keep-a-record | Why I Keep a Record When I Work With AI | pending (not yet posted to Substack) | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | Closure filed, publication pending |
 
-## 5. Completion status at initialization
+## 5. Completion status
 
 ```text
 repository created                                 YES
 authority-boundary statement published             YES
 public AWAP template published                     YES
-first article published                            NO
-first public AWAP entered                          NO
+first article published                            NO -- Substack post not yet live
+first public AWAP entered                          YES -- 21.08.2026
 ```
 
 ---
