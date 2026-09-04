@@ -192,9 +192,9 @@ two, and they are carried here rather than dropped in redaction:
 **LID encoding status:** [ ] Pending [ ] Encoded [x] **Not submitted** —
 deferred, with a named revisit condition: when a standalone mechanism
 exists to submit an already-assembled chain for LID fingerprinting. No
-such mechanism exists today; token issuance is available only inside a
-live write-mediation pipeline, and this work's writes did not pass
-through one. Verified against the implementation on 2026-09-04.
+such mechanism currently exists. Confirmed against the current state of
+the tooling on 2026-09-04; the reasoning is recorded in the private
+closure record.
 
 ---
 
