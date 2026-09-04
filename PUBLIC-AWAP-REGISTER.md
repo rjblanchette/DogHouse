@@ -43,6 +43,14 @@ presence here                  ⇏  the canonical AWAP itself
 | article_slug | work_title | published_url | closure_date | public_awap_ref | status |
 |---|---|---|---|---|---|
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | pending (not yet posted to Substack) | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | Closure filed, publication pending |
+| surplus-after-attribution | Surplus After Attribution | pending (not yet posted to Substack) | 2026-09-04 | `AWAP-PUBLIC-surplus-after-attribution.md` | Closure filed, publication pending |
+
+**Note on the second entry.** *Surplus After Attribution* is an
+**off-series** work. It is not one of the 13 articles in the SubStack
+series and has no project-level parent gate; it opened its own solo
+work-level DOG (`SDCA-DOG-STANDALONE-001`). Its record model fields
+below read `source_project = SubStack` because that is where it is
+published, not because it belongs to the series project.
 
 ## 5. Completion status
 
@@ -52,6 +60,8 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            NO -- Substack post not yet live
 first public AWAP entered                          YES -- 21.08.2026
+public AWAPs on file                               2 -- 21.08.2026, 04.09.2026
+first off-series work entered                      YES -- 04.09.2026
 ```
 
 ---
