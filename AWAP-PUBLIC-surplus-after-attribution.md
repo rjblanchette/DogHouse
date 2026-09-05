@@ -30,9 +30,9 @@ created the gain
 
 **Published URL:** https://rjblanchette.substack.com/p/surplus-after-attribution
 
-**Date of Closure (internal):** 04.09.2026
+**Date of Closure (internal):** 05.09.2026
 
-**Date Published:** 04.09.2026
+**Date Published:** 05.09.2026
 
 ---
 
@@ -65,7 +65,7 @@ reproduced in full from the internal closure record.
 ### The origin gate was declared late
 
 This genesis declaration is **retrospective**. It was made on
-2026-09-04, after the discussion, drafting, redrafting and voice
+2026-09-05, after the discussion, drafting, redrafting and voice
 correction of the article had already happened. The internal record
 states this plainly rather than presenting the declaration as
 pre-execution, and the same condition is stated here.
@@ -73,7 +73,7 @@ pre-execution, and the same condition is stated here.
 Under SDCA, a Declared-Origin Gate opens a genesis chain and qualifies
 work from that point forward. A retrospective declaration records origin
 honestly; it does not reach backwards to qualify work that preceded it.
-This chain's writes are qualified from 2026-09-04 onward and no earlier.
+This chain's writes are qualified from 2026-09-05 onward and no earlier.
 
 ---
 
@@ -168,7 +168,7 @@ declaration of responsibility.
 >   made in this work.
 
 **Signed:** Robert J. Blanchette
-**Date:** 04.09.2026
+**Date:** 05.09.2026
 
 **Conditions recorded with this signature.** The internal record notes
 two, and they are carried here rather than dropped in redaction:
@@ -193,7 +193,7 @@ two, and they are carried here rather than dropped in redaction:
 deferred, with a named revisit condition: when a standalone mechanism
 exists to submit an already-assembled chain for LID fingerprinting. No
 such mechanism currently exists. Confirmed against the current state of
-the tooling on 2026-09-04; the reasoning is recorded in the private
+the tooling on 2026-09-05; the reasoning is recorded in the private
 closure record.
 
 ---
@@ -232,3 +232,28 @@ not be read as seven independent confirmations.
 
 *Public provenance summary only. Does not assess artistic merit. Does
 not create, transfer, extend, or supersede SDCA closure authority.*
+
+---
+
+## Date correction — 05.09.2026
+
+**Every date in this summary describing an act of the closure chain
+originally read 04.09.2026. All have been corrected to 05.09.2026** —
+the internal closure date, the publication date, the signature date on
+the Human Responsibility Statement, the date the origin gate was
+declared, and the date the LID position was verified.
+
+The work was done on 05.09.2026. The provenance artifacts that seeded
+this chain were produced in an external session dated 4 September 2026,
+and that date was carried into the SDCA records by mistake instead of
+the actual working date.
+
+Corrected by direct amendment on the Architect's instruction,
+05.09.2026, with the prior value recorded here rather than silently
+replaced — this is a public transparency surface, and a quiet edit would
+defeat its purpose.
+
+**Not changed:** the conception events themselves. Those occurred on
+4 September 2026 in the Substack exchange and the external session, and
+every reference to work spanning 1–4 September 2026 is correct as
+written. Only dates describing the closure chain's own acts moved.

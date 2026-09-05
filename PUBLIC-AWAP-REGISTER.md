@@ -43,7 +43,7 @@ presence here                  ⇏  the canonical AWAP itself
 | article_slug | work_title | published_url | closure_date | public_awap_ref | status |
 |---|---|---|---|---|---|
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | **Published 21.08.2026** |
-| surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-04 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 04.09.2026** |
+| surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-05 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 05.09.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -52,11 +52,18 @@ work-level DOG (`SDCA-DOG-STANDALONE-001`). Its record model fields
 below read `source_project = SubStack` because that is where it is
 published, not because it belongs to the series project.
 
-**Correction, 04.09.2026.** The first entry's row previously read
+**Date correction, 05.09.2026.** The second entry's closure and
+publication dates previously read 04.09.2026 throughout. The work was
+done on 05.09.2026; the earlier date was carried in from the external
+session that produced that work's source provenance artifacts. Corrected
+by direct amendment, prior value recorded. The conception events
+themselves did occur on 4 September 2026 and are unchanged.
+
+**Correction, 05.09.2026.** The first entry's row previously read
 "pending (not yet posted to Substack)" and the completion block below
 recorded no article as published. Both were stale: article 001 went live
 on 21.08.2026, as its own `AWAP-PUBLIC-why-i-keep-a-record.md` §1
-already recorded. When the second entry was added on 04.09.2026 the
+already recorded. When the second entry was added on 05.09.2026 the
 stale row was taken as current, and a note was written here claiming
 *Surplus After Attribution* was the first work published to this
 SubStack. That claim was wrong and has been removed. Article 001 is
@@ -70,8 +77,8 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               2 -- 21.08.2026, 04.09.2026
-first off-series work entered                      YES -- 04.09.2026
+public AWAPs on file                               2 -- 21.08.2026, 05.09.2026
+first off-series work entered                      YES -- 05.09.2026
 articles live on Substack                          2 -- why-i-keep-a-record, surplus-after-attribution
 ```
 
