@@ -43,7 +43,7 @@ presence here                  ⇏  the canonical AWAP itself
 | article_slug | work_title | published_url | closure_date | public_awap_ref | status |
 |---|---|---|---|---|---|
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | pending (not yet posted to Substack) | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | Closure filed, publication pending |
-| surplus-after-attribution | Surplus After Attribution | pending (not yet posted to Substack) | 2026-09-04 | `AWAP-PUBLIC-surplus-after-attribution.md` | Closure filed, publication pending |
+| surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-04 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 04.09.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -58,11 +58,17 @@ published, not because it belongs to the series project.
 repository created                                 YES
 authority-boundary statement published             YES
 public AWAP template published                     YES
-first article published                            NO -- Substack post not yet live
+first article published                            YES -- 04.09.2026
 first public AWAP entered                          YES -- 21.08.2026
 public AWAPs on file                               2 -- 21.08.2026, 04.09.2026
 first off-series work entered                      YES -- 04.09.2026
+articles live on Substack                          1 -- surplus-after-attribution
 ```
+
+**Note.** The first work published to Substack is the off-series
+*Surplus After Attribution*, not the series' own article 001. Article
+001's closure and public AWAP were filed first, on 21.08.2026, but its
+Substack post is not yet live.
 
 ---
 
