@@ -28,11 +28,11 @@ created the gain
 
 **DOG Reference:** `SDCA-DOG-STANDALONE-001`
 
-**Published URL:** Not published
+**Published URL:** https://rjblanchette.substack.com/p/surplus-after-attribution
 
 **Date of Closure (internal):** 04.09.2026
 
-**Date Published:** Not published
+**Date Published:** 04.09.2026
 
 ---
 
