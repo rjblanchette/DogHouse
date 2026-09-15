@@ -163,9 +163,18 @@ Closed 15.09.2026, before publication.
 
 **LID encoding status:** [x] **Pending** [ ] Encoded [ ] Not submitted
 
-The decision recorded at closure is **Submit**. No provenance token has
-been issued, and no standalone mechanism currently exists to encode an
-already-closed work. The decision was recorded without a target date.
+The decision is **Defer**: deliberately not submitting now, because no
+standalone mechanism currently exists to encode an already-closed work.
+The recorded condition for revisiting it is that such a mechanism
+exists. No provenance token has been issued.
+
+*Amended 15.09.2026, after this file was first published here.* The
+closure originally recorded the decision as **Submit**, with no target
+date and no mechanism able to execute it. The Architect amended it to
+Defer the same day. The prior value is recorded in the private closure
+record. It is stated here rather than silently replaced, because a
+public provenance record that quietly changes its own contents is not
+doing the job it exists to do.
 
 ---
 

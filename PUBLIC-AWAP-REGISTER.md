@@ -95,6 +95,14 @@ AWAP was filed **after** publication, where the second entry's was filed
 before. Neither order is required. The closure it summarizes was
 complete before the article went live in both cases.
 
+**Amendment to the third entry, 15.09.2026.** Its public AWAP
+originally recorded the work's LID decision as *Submit*. The Architect
+amended it to *Defer* the same day, on the ground that no standalone
+mechanism exists to encode an already-closed work, with the revisit
+condition being that one exists. `AWAP-PUBLIC-traceability-is-not-authority.md`
+§7 carries both values. The amendment is noted here because it changed
+a published file after publication.
+
 ---
 
 *Public transparency register. Entry here creates no authority.*
