@@ -44,6 +44,7 @@ presence here                  ⇏  the canonical AWAP itself
 |---|---|---|---|---|---|
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | **Published 21.08.2026** |
 | surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-05 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 05.09.2026** |
+| traceability-is-not-authority | Traceability Is Not Authority | https://rjblanchette.substack.com/p/traceability-is-not-authority | 2026-09-15 | `AWAP-PUBLIC-traceability-is-not-authority.md` | **Published 15.09.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -77,10 +78,22 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               2 -- 21.08.2026, 05.09.2026
+public AWAPs on file                               3 -- 21.08.2026, 05.09.2026, 15.09.2026
 first off-series work entered                      YES -- 05.09.2026
-articles live on Substack                          2 -- why-i-keep-a-record, surplus-after-attribution
+articles live on Substack                          3 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority
 ```
+
+**Note on the third entry.** *Traceability Is Not Authority* is the
+second **off-series** work recorded here. Like the first, it opened its
+own solo work-level DOG (`SDCA-DOG-STANDALONE-002`) with no
+project-level parent gate.
+
+Two differences from the second entry are worth recording rather than
+leaving to be inferred. Its origin gate was declared **before** the work
+was written, where the second entry's was declared after; and its public
+AWAP was filed **after** publication, where the second entry's was filed
+before. Neither order is required. The closure it summarizes was
+complete before the article went live in both cases.
 
 ---
 
