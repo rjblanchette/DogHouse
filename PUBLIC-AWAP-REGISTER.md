@@ -45,6 +45,7 @@ presence here                  ⇏  the canonical AWAP itself
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | **Published 21.08.2026** |
 | surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-05 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 05.09.2026** |
 | traceability-is-not-authority | Traceability Is Not Authority | https://rjblanchette.substack.com/p/traceability-is-not-authority | 2026-09-15 | `AWAP-PUBLIC-traceability-is-not-authority.md` | **Published 15.09.2026** |
+| can-a-machine-describe-feeling-without-feeling-anything | Can a Machine Describe Feeling Without Feeling Anything? (Essay 1 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/can-a-machine-describe-feeling-without | 2026-11-10 | `AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md` | **Published 10.11.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -70,6 +71,22 @@ stale row was taken as current, and a note was written here claiming
 SubStack. That claim was wrong and has been removed. Article 001 is
 first; the off-series work is second.
 
+**Note on the fourth entry.** *Can a Machine Describe Feeling Without
+Feeling Anything?* is the first of **nine essays** in the SubStack
+series Work *"What Does It Mean to Feel? Consciousness, Conscience, and
+the Possibility of Artificial Experience"* (`SDCA-AWAP-SUBSTACK-004`),
+not an off-series work — it has a project-level parent gate
+(`SDCA-DOG-P-SUBSTACK`). Unlike every prior entry here, a single
+Work-level AWAP-W closes the whole nine-essay chain at once, closed on
+10.11.2026 while only this essay had actually been published; the
+Architect's decision was to close on the basis that all nine essays
+were already written, revised, cited, and exported, treating the
+remaining eight Substack publications as distribution events to be
+recorded against this same closure via addenda, not reasons to hold
+closure open. As the other eight essays publish, each will get its own
+`AWAP-PUBLIC-<slug>.md` entry and register row here, all pointing back
+to this one closure rather than opening new ones.
+
 ## 5. Completion status
 
 ```text
@@ -78,9 +95,10 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               3 -- 21.08.2026, 05.09.2026, 15.09.2026
+public AWAPs on file                               4 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026
 first off-series work entered                      YES -- 05.09.2026
-articles live on Substack                          3 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority
+first series-article (non-off-series) since 001     YES -- 10.11.2026 (can-a-machine-describe-feeling-without-feeling-anything)
+articles live on Substack                          4 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, can-a-machine-describe-feeling-without-feeling-anything
 ```
 
 **Note on the third entry.** *Traceability Is Not Authority* is the
