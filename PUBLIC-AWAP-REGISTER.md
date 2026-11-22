@@ -46,6 +46,7 @@ presence here                  ⇏  the canonical AWAP itself
 | surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-05 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 05.09.2026** |
 | traceability-is-not-authority | Traceability Is Not Authority | https://rjblanchette.substack.com/p/traceability-is-not-authority | 2026-09-15 | `AWAP-PUBLIC-traceability-is-not-authority.md` | **Published 15.09.2026** |
 | can-a-machine-describe-feeling-without-feeling-anything | Can a Machine Describe Feeling Without Feeling Anything? (Essay 1 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/can-a-machine-describe-feeling-without | 2026-11-10 | `AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md` | **Published 10.11.2026** |
+| authority-scarcity | Authority Scarcity: The Constitutional Challenge of the AI Age | https://rjblanchette.substack.com/p/authority-scarcity | 2026-11-22 | `AWAP-PUBLIC-authority-scarcity.md` | **Published 22.11.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -95,10 +96,10 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               4 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026
+public AWAPs on file                               5 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026, 22.11.2026
 first off-series work entered                      YES -- 05.09.2026
 first series-article (non-off-series) since 001     YES -- 10.11.2026 (can-a-machine-describe-feeling-without-feeling-anything)
-articles live on Substack                          4 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, can-a-machine-describe-feeling-without-feeling-anything
+articles live on Substack                          5 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, can-a-machine-describe-feeling-without-feeling-anything, authority-scarcity
 ```
 
 **Note on the third entry.** *Traceability Is Not Authority* is the
@@ -120,6 +121,18 @@ mechanism exists to encode an already-closed work, with the revisit
 condition being that one exists. `AWAP-PUBLIC-traceability-is-not-authority.md`
 §7 carries both values. The amendment is noted here because it changed
 a published file after publication.
+
+**Note on the fifth entry.** *Authority Scarcity* is the third
+**off-series** work recorded here (`SDCA-DOG-STANDALONE-003`, solo
+work-level DOG, no project-level parent gate). Its public AWAP was filed
+**after** publication. Two things are worth recording rather than leaving to
+be inferred. **The published text differs from the text the internal closure
+covered:** the Architect rewrote the essay after the closure's export, and
+the internal record carries a Structural Addendum for it; the page's
+timestamp is about a minute after the closure was filed, and when the
+rewrite was made is not recorded. And **the closure's declarations were
+composed by the AI system at the Architect's instruction and adopted by him
+as drafted**; the public AWAP says so in its §8.
 
 ---
 
