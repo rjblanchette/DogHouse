@@ -225,6 +225,7 @@ referenced above, not settled by this publication.
 | Date | Change |
 |---|---|
 | 24.11.2026 | Folder and record created. Essays 1 to 6 recorded in §7. |
+| 24.11.2026 | The closing sentence on the posts of essays 1 to 6 now links to this folder (`https://github.com/rjblanchette/DogHouse/tree/master/series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience`), not to essay 1's file. Only the link changed; no wording. Checked on the six live posts the same day. §7's paragraph "The text as published" describes the earlier link and is not edited; this row supersedes that detail. |
 
 ---
 
