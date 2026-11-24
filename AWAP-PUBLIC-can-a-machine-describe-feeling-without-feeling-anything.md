@@ -167,3 +167,28 @@ referenced above, not settled by this publication.
 
 *Public provenance summary only. Does not assess artistic merit. Does
 not create, transfer, extend, or supersede SDCA closure authority.*
+
+---
+
+## Amendment — 24.11.2026
+
+*This file was written on 10.11.2026, when essay 1 was the only one of the
+nine essays published. It is not edited above; this note records what has
+changed since.*
+
+- **The record for the whole series is now at**
+  [`series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/`](series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md).
+  It covers all nine essays and lists each as it is published. Essays 2 to 6
+  are published, and are recorded there and not in files of their own.
+- **The opening note above is out of date.** It says this is the first essay
+  of the nine to publish and that the other eight await their publication
+  dates. Six of the nine are now published.
+- **The statement that ChatGPT wrote the full prose of all nine essays is
+  incomplete.** Five passages were added afterwards to essays 8 and 9 and
+  were drafted by Claude (Anthropic). Essay 1 is not affected. See §4 of the
+  series record.
+- **This essay's image** was conceived by the Architect and generated with
+  Gemini, by his statement of 18.11.2026. It is not covered by either CEA
+  record. This was not recorded above.
+
+Nothing else in this file has changed.

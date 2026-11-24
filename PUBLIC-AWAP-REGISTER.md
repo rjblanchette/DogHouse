@@ -47,6 +47,11 @@ presence here                  ⇏  the canonical AWAP itself
 | traceability-is-not-authority | Traceability Is Not Authority | https://rjblanchette.substack.com/p/traceability-is-not-authority | 2026-09-15 | `AWAP-PUBLIC-traceability-is-not-authority.md` | **Published 15.09.2026** |
 | can-a-machine-describe-feeling-without-feeling-anything | Can a Machine Describe Feeling Without Feeling Anything? (Essay 1 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/can-a-machine-describe-feeling-without | 2026-11-10 | `AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md` | **Published 10.11.2026** |
 | authority-scarcity | Authority Scarcity: The Constitutional Challenge of the AI Age | https://rjblanchette.substack.com/p/authority-scarcity | 2026-11-22 | `AWAP-PUBLIC-authority-scarcity.md` | **Published 22.11.2026** |
+| the-human-who-cannot-respond | The Human Who Cannot Respond (Essay 2 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/the-human-who-cannot-respond | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 13.11.2026** |
+| if-i-replace-your-brain-are-you-still | If I Replace Your Brain, Are You Still There? (Essay 3 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/if-i-replace-your-brain-are-you-still | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 16.11.2026** |
+| i-remember-my-wife-but-do-i-feel | I Remember My Wife. But Do I Feel Love? (Essay 4 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/i-remember-my-wife-but-do-i-feel | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 18.11.2026** |
+| the-terrible-possibility-of-feeling | The Terrible Possibility of Feeling (Essay 5 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/the-terrible-possibility-of-feeling | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 20.11.2026** |
+| consciousness-without-conscience | Consciousness Without Conscience (Essay 6 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/consciousness-without-conscience | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 24.11.2026** |
 
 **Note on the second entry.** *Surplus After Attribution* is an
 **off-series** work. It is not one of the 13 articles in the SubStack
@@ -88,6 +93,15 @@ closure open. As the other eight essays publish, each will get its own
 `AWAP-PUBLIC-<slug>.md` entry and register row here, all pointing back
 to this one closure rather than opening new ones.
 
+**Note on the series record, 24.11.2026.** The note above says each of the
+eight later essays would get its own `AWAP-PUBLIC-<slug>.md` file. That was
+changed before any was filed. Because one Work-level record closes all nine
+essays, the series has **one** public record, in
+`series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/`,
+with a table that gains a row for each essay as it is published. The rows
+above for essays 2 to 6 point to it. Essay 1 keeps the file it already had,
+which carries an amendment pointing to the series record.
+
 ## 5. Completion status
 
 ```text
@@ -96,11 +110,13 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               5 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026, 22.11.2026
+public AWAPs on file                               6 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026, 22.11.2026, 24.11.2026 (series record)
 first off-series work entered                      YES -- 05.09.2026
 first series-article (non-off-series) since 001     YES -- 10.11.2026 (can-a-machine-describe-feeling-without-feeling-anything)
-articles live on Substack                          5 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, can-a-machine-describe-feeling-without-feeling-anything, authority-scarcity
+articles live on Substack                          10 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, essays 1 to 6 of the series, authority-scarcity
 ```
+
+**Correction, 24.11.2026.** The "articles live on Substack" line above omitted essays 2 to 5 of the series (live from 13.11.2026 to 20.11.2026) and, before this change, essay 6 (24.11.2026). It now lists all ten posts live.
 
 **Note on the third entry.** *Traceability Is Not Authority* is the
 second **off-series** work recorded here. Like the first, it opened its

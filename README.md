@@ -56,6 +56,12 @@ implicit.
 - `PUBLIC-AWAP-REGISTER.md` — index of every public AWAP published here.
 - `AWAP-PUBLIC-<slug>.md` — one per published article, added only once
   that article's internal AWAP has actually closed.
+- `series/<series-name>/README.md` — for a multi-essay Work closed by a single
+  internal record, one public AWAP for the whole series, with a table of its
+  essays that gains a row as each is published. The first is
+  `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/`.
+  Its Work-level sections are written once and not edited; only the table
+  and its changelog change.
 
 ---
 
