@@ -45,7 +45,7 @@ presence here                  ⇏  the canonical AWAP itself
 | why-i-keep-a-record | Why I Keep a Record When I Work With AI | https://rjblanchette.substack.com/p/why-i-keep-a-record-when-i-work-with | 2026-08-21 | `AWAP-PUBLIC-why-i-keep-a-record.md` | **Published 21.08.2026** |
 | surplus-after-attribution | Surplus After Attribution | https://rjblanchette.substack.com/p/surplus-after-attribution | 2026-09-05 | `AWAP-PUBLIC-surplus-after-attribution.md` | **Published 05.09.2026** |
 | traceability-is-not-authority | Traceability Is Not Authority | https://rjblanchette.substack.com/p/traceability-is-not-authority | 2026-09-15 | `AWAP-PUBLIC-traceability-is-not-authority.md` | **Published 15.09.2026** |
-| can-a-machine-describe-feeling-without-feeling-anything | Can a Machine Describe Feeling Without Feeling Anything? (Essay 1 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/can-a-machine-describe-feeling-without | 2026-11-10 | `AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md` | **Published 10.11.2026** |
+| can-a-machine-describe-feeling-without-feeling-anything | Can a Machine Describe Feeling Without Feeling Anything? (Essay 1 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/can-a-machine-describe-feeling-without | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 10.11.2026** |
 | authority-scarcity | Authority Scarcity: The Constitutional Challenge of the AI Age | https://rjblanchette.substack.com/p/authority-scarcity | 2026-11-22 | `AWAP-PUBLIC-authority-scarcity.md` | **Published 22.11.2026** |
 | the-human-who-cannot-respond | The Human Who Cannot Respond (Essay 2 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/the-human-who-cannot-respond | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 13.11.2026** |
 | if-i-replace-your-brain-are-you-still | If I Replace Your Brain, Are You Still There? (Essay 3 of 9 — *What Does It Mean to Feel?*) | https://rjblanchette.substack.com/p/if-i-replace-your-brain-are-you-still | 2026-11-10 | `series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience/README.md` | **Published 16.11.2026** |
@@ -102,6 +102,8 @@ with a table that gains a row for each essay as it is published. The rows
 above for essays 2 to 6 point to it. Essay 1 keeps the file it already had,
 which carries an amendment pointing to the series record.
 
+**Removal of essay 1's file, 24.11.2026.** Essay 1's own public AWAP (`AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md`, filed 10.11.2026) was removed at the Architect's instruction. The row for essay 1 above now points to the series record, which covers all nine essays. The note immediately above is left as written and is superseded on this point. The removed file is in this repository's history.
+
 ## 5. Completion status
 
 ```text
@@ -110,7 +112,7 @@ authority-boundary statement published             YES
 public AWAP template published                     YES
 first article published                            YES -- 21.08.2026 (why-i-keep-a-record)
 first public AWAP entered                          YES -- 21.08.2026
-public AWAPs on file                               6 -- 21.08.2026, 05.09.2026, 15.09.2026, 10.11.2026, 22.11.2026, 24.11.2026 (series record)
+public AWAPs on file                               5 -- 21.08.2026, 05.09.2026, 15.09.2026, 22.11.2026, 24.11.2026 (series record, which also covers essay 1; essay 1's own file of 10.11.2026 was removed 24.11.2026)
 first off-series work entered                      YES -- 05.09.2026
 first series-article (non-off-series) since 001     YES -- 10.11.2026 (can-a-machine-describe-feeling-without-feeling-anything)
 articles live on Substack                          10 -- why-i-keep-a-record, surplus-after-attribution, traceability-is-not-authority, essays 1 to 6 of the series, authority-scarcity

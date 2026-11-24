@@ -30,10 +30,10 @@ Two parts change as the series proceeds, and only these two:
 - the **table of essays** (§7), which gains a row when an essay is published; and
 - the **changelog**, at the end, which records every change to this file.
 
-Essay 1's own public AWAP,
-[`AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md`](../../AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md),
-was filed first and stays where it is, because published posts link to it.
-It carries an amendment pointing here.
+Essay 1 was first given a public AWAP of its own, filed on 10.11.2026. That
+file was removed on 24.11.2026 at the Architect's instruction, and this record
+now covers essay 1 together with the others. The removed file is kept in this
+repository's history.
 
 ---
 
@@ -186,8 +186,8 @@ differences: the title is carried as the post's title and not as a heading
 in the body, and each post ends with one sentence, not in the exported text,
 saying that a public record of the piece's origin is available at DogHouse.
 *Who wrote that closing sentence is not recorded in the internal chain.*
-On each of these six posts its link goes to essay 1's public AWAP, which
-carries an amendment pointing here.
+On each of these six posts the link first went to essay 1's public AWAP, and
+was later changed to point here (see the changelog). That file has been removed.
 
 **Essay-specific facts.** Each essay's genesis, production method and
 responsibility statement are the Work's, above. No separate genesis was
@@ -226,6 +226,7 @@ referenced above, not settled by this publication.
 |---|---|
 | 24.11.2026 | Folder and record created. Essays 1 to 6 recorded in §7. |
 | 24.11.2026 | The closing sentence on the posts of essays 1 to 6 now links to this folder (`https://github.com/rjblanchette/DogHouse/tree/master/series/what-does-it-mean-to-feel-consciousness-conscience-and-the-possibility-of-artificial-experience`), not to essay 1's file. Only the link changed; no wording. Checked on the six live posts the same day. §7's paragraph "The text as published" describes the earlier link and is not edited; this row supersedes that detail. |
+| 24.11.2026 | Essay 1's own public AWAP (`AWAP-PUBLIC-can-a-machine-describe-feeling-without-feeling-anything.md`) was removed at the Architect's instruction, and the essay 1 table row above is now covered by this record alone. Two sentences outside the table were changed to say so: the last paragraph of "How this record works" and the last sentence of §7's "The text as published". The earlier changelog rows are left as written. The removed file is in this repository's history (last version in commit `a9c84eb`). |
 
 ---
 
