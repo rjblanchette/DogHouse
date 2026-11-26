@@ -7,6 +7,10 @@ Closure Records (legacy identifier `AWAP-W`) — public, redacted summaries
 of the human-authorship and responsibility record for individual
 published works, most immediately the `SubStack` article series
 (`AI-Human-First_Architecture/11_Independent_Publishing/SubStack/`).
+Works published elsewhere are recorded here the same way; the first is
+the novel *The Authorized Apocalypse*
+(`AWAP-PUBLIC-the-authorized-apocalypse.md`), whose internal record is
+under `AI-Human-First_Architecture/10_writtings/05_Novels/`.
 
 ## What this is
 
